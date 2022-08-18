@@ -1,2 +1,5 @@
 Hi am student
 learning devops
+<<<<<<< HEAD
+learning python
+>>>>>>> branch5
